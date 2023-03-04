@@ -1,6 +1,6 @@
 class Asignatura:
 
-    def __init__(self, nombre = None, salon = "Remoto"):
+    def __init__(self, nombre = None, salon = "remoto"):
         self._nombre = nombre
         self._salon = salon
 
